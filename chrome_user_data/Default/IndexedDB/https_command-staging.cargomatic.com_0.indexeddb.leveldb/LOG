@@ -1,0 +1,13 @@
+2025/11/19-13:35:47.363 1aeaa4 Reusing MANIFEST /Users/pmcelroy/Documents/development/command-cua/chrome_user_data/Default/IndexedDB/https_command-staging.cargomatic.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/19-13:35:47.364 1aeaa4 Recovering log #22
+2025/11/19-13:35:47.364 1aeaa4 Reusing old log /Users/pmcelroy/Documents/development/command-cua/chrome_user_data/Default/IndexedDB/https_command-staging.cargomatic.com_0.indexeddb.leveldb/000022.log 
+2025/11/19-13:35:47.371 1aeaa8 Level-0 table #27: started
+2025/11/19-13:35:47.371 1aeaa8 Level-0 table #27: 871 bytes OK
+2025/11/19-13:35:47.372 1aeaa8 Delete type=0 #22
+2025/11/19-13:35:47.373 1aeaa4 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 249 : 1
+2025/11/19-13:35:47.373 1aeaa4 Compacting 1@0 + 1@1 files
+2025/11/19-13:35:47.373 1aeaa4 Generated table #28@0: 38 keys, 1194 bytes
+2025/11/19-13:35:47.373 1aeaa4 Compacted 1@0 + 1@1 files => 1194 bytes
+2025/11/19-13:35:47.374 1aeaa4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/19-13:35:47.374 1aeaa4 Delete type=2 #27
+2025/11/19-13:35:47.374 1aeaa4 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 249 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
