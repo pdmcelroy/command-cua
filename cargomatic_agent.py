@@ -447,10 +447,8 @@ def main():
     agent = CargomaticAgent(headless=False)
     try:
         agent.start()
-        
-        # Use admin credentials for staging test
-        username = "admin"
-        password = "admin"
+
+        # set username and password
         
         agent.login(username, password)
         
